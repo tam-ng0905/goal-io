@@ -1,6 +1,6 @@
-# GoalIo
+# Goal.io
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+Goal.io is a social media platform that focuses on building users' positive habits.
 
 ## Development server
 
