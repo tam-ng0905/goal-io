@@ -1,0 +1,20 @@
+.posts{
+  width: 400px;
+  height: 580px;
+  margin: 40px auto;
+  display: block;
+  border-radius: 10px;
+}
+
+mat-card-actions button {
+  height: 30px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.example-header-image{
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  background: lightcoral;
+}

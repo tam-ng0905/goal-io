@@ -1,0 +1,31 @@
+*{
+  color: #333333;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  margin-bottom: 20px;
+}
+.title{
+  margin: 0px;
+  margin-bottom: 20px;
+}
+
+
+.content{
+  padding-top: 20px;
+}
+
+.item-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+
+.items{
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  background-color: coral;
+  margin-right: 30px;
+  border: 1px solid goldenrod;
+
+}
