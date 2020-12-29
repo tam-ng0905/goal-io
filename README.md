@@ -1,6 +1,6 @@
-# Goal.io
+# Goal.io - Prototype
 
-Goal.io is a social media platform that focuses on building users' positive habits.
+### Goal.io is a social media platform that focuses on building users' positive habits.
 
 ## Development server
 
